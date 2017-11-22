@@ -71,4 +71,5 @@ dependencies {
     testCompile rootProject.ext.dependencies["canary-release"]
     //view
     annotationProcessor rootProject.ext.dependencies["butterknife-compiler"]
+    compile
 }
