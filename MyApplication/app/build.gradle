@@ -84,4 +84,6 @@ dependencies {
     compile rootProject.ext.dependencies["retrofit"]
     compile rootProject.ext.dependencies["retrofit-converter-gson"]
     compile rootProject.ext.dependencies["retrofit-adapter-rxjava2"]
+    compile rootProject.ext.dependencies["rxcache"]
+    compile rootProject.ext.dependencies["rxcache-jolyglot-gson"]
 }
